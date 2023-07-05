@@ -1,1 +1,1 @@
-None events are currently visitable :)
+None events are currently joinable :)
